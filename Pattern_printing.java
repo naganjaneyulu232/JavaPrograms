@@ -1,6 +1,6 @@
 import java.util.*;
 
-
+//Here i wanted to print all java patterns using for loop and nested for loop. I have used scanner class to take input from user. I have printed right half pyramid, left half pyramid, triangle star pyramid, reverse left star half pyramid and reverse right star half pyramid.
 public class Pattern_printing {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
