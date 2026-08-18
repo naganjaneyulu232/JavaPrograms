@@ -1,3 +1,4 @@
+//I want to reverse the word selenium in a string using java. I have written the code but it is not working properly. Can you please help me to fix it?
 import java.util.Scanner.*;
 
 public class word_Reverse {
